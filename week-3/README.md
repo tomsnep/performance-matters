@@ -2,7 +2,6 @@
 
 ##Grunt & Gulp
 
-Common facts:
 ![common facts](readme_img/grunt_vs_gulp_stats.png)
 
 There are two main differences between Grunt and Gulp:
@@ -20,6 +19,7 @@ Zander Martineau made a speed comparison test of Grunt vs. Gulp. He similarly re
 
 ![speed test](readme_img/grunt_speed_test_js.png)
 
+###Winner: Gulp
 Mostly because of the syntax i decided to use Gulp. As a beginner i think as a beginner it is easier to understand what is happening with Gulp rather than Grunt.
 
 sources:
